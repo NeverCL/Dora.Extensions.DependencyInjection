@@ -1,4 +1,4 @@
-﻿namespace Dora.Extensions.DependencyInjection.Abstractions
+﻿namespace DependencyInjection.Abstractions
 {
     public interface IScopedDependency
     {

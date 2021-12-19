@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard1.0</TargetFramework>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<PackageId>DependencyInjection.Abstractions</PackageId>
+		<Version>1.0.0-alpha</Version>
+		<Authors>Never、C</Authors>
+		<Company>Dora</Company>
+		<PackageTags>DI Dora DependencyInjection</PackageTags>
+		<Description>Abstractions for dependency injection.
+
+Commonly Used Types:
+ITransientDependency
+IScopedDependency
+ISingletonDependency
+	</Description>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	</PropertyGroup>
+
+</Project>
